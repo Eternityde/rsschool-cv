@@ -1,9 +1,5 @@
 # Tatiana Ivanova
 
-### About me
-
-I am Tatiana Ivanova. After relocating to Germany, I am eager to transition my career into Frontend Development. I am passionate about computer technology and am excited to translate this passion into practical experience and expertise in this field.
-
 ### Contacts
 
 > Location: Germany, Arnsberg<br>
@@ -12,6 +8,10 @@ I am Tatiana Ivanova. After relocating to Germany, I am eager to transition my c
 > GitHub: [Eternityde](https://github.com/Eternityde)<br>
 > Linkedin: Tatiana Ivanova<br>
 
+### About me
+```
+I am Tatiana Ivanova. After relocating to Germany, I am eager to transition my career into Frontend Development. I am passionate about computer technology and am excited to translate this passion into practical experience and expertise in this field.
+```
 ### Main Knowledges
 ```
 - HTML, CSS, JS
@@ -55,7 +55,7 @@ Position: Foreign Exchange Specialist, Corporate Banking
 
 
 ### Projects
->https://codepen.io/Eternityde/pen/dyaLweM
+>[Traumurlaub](https://codepen.io/Eternityde/pen/dyaLweM)
 
 ### languages
 
