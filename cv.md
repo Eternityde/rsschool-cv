@@ -25,48 +25,43 @@ I am Tatiana Ivanova. After relocating to Germany, I am eager to transition my c
 - good communication and people skills;
 - active, highly agile person.
 - willingness and ability to work with diligence;
-- attention to detail, critical thinking, analytical abilities and a drive to learn (a year ago I've acquired a new medical profession almost from scratch);
+- attention to detail, critical thinking, analytical abilities and a drive to learn
 - ability to keep calm and make balanced decisions under extreme stress;
 - work experience with high-tech equipment and techniques;
 - stability and consistency in work tasks;
 ```
 ### Education
 ```
-1. RS School «JavaScript/Front-end. Stage 1» (in progress).
-2. ITC Bootcamp "Frontend JS intensive course" (2023).
-3. RS School «JavaScript/Front-end. Stage 0» (2023).
-4. Codecademy, 2022: HTML, CSS, JavaScript, Git.
-5. Samara State Medical University, General Medicine, 2005.
+1. RS School «JavaScript/Front-end. Stage 0» (in progress)
+2. Java Rush (2023)
+3. Redrover School «QA Automation Java» (2023)
+4. Sololearn: HTML, CSS, JavaScript, Git, Java, SQL (2023)
+5. Modern University for the Humanities, Faculty of Economics
+  Diploma: Bachelor's degree in Existing Markets,
+  Financial and Information Flows, Industrial and Research Processes
 ```
 ### Work experience
 
-##### Non IT experience
-```
-**2013-2020** Freelance photographer.\
-**2006-2022** Anesthesiologist and critical care physician.
-```
+`Non IT experience`
+
+**2016 – 2018** PAO ROSBANK SOCIETE GENERALE GROUP, Russia
+Position: Lead Specialist, Department of Digitization and Document Logistics, Eastern Region
+
+**2010 – 2014** ROSBANK, Russia
+Position: Assistant to the Regional Director, Specialist
+
+**2009 – 2010** KEDR Bank, Russia
+Position: Foreign Exchange Specialist, Corporate Banking
+
 
 ### Projects
 >https://codepen.io/Eternityde/pen/dyaLweM
 
-### Contacts
+### languages
 
-> Location: Bishkek, Kyrgyzstan<br>
-> Phone: +998 996 78 58 68<br>
-> E-mail: sashaivanova.pro@gmail.com (preferred mean of communication)\<br>
-> GitHub: sashaivanovaPro<br>
-> Linkedin: sashaivanovaPro<br>
-> Telegram: @sashaivanova_frontend<br>
-
-
-### Foreign languages
-
-**English** – Intermediate.
-Epam English test result: B1, 2022.
-[EF SET B2 UPPER INTERMEDIATE](efset.org/cert/wavEMQ)
-
-**French** – DELF В1, 2014.
-**French** – DELF В1, 2014.
+**German** –  C1 (Advanced)<br>
+**English** – A2 (Elementary)<br>
+**Russian** – native language
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 <picture>
